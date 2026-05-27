@@ -4,10 +4,10 @@ A project aiming to characterize globular clusters observed through JWST NIRCam'
 
 
 
-Files that should be present in the same folder as "BaSTI\_to\_cmd":
+Files that should be present in the same folder as "BaSTI\_to\_cmd.ipynb":
 
-* "NRC\_ZPs\_1126pmap" (taken directly from: https://jwst-docs.stsci.edu/files/216457093/216457096/1/1762453608965/NRC\_ZPs\_1126pmap.txt)
-* "requirementsgc" (list of packages)
+* "NRC\_ZPs\_1126pmap.txt" (taken directly from: https://jwst-docs.stsci.edu/files/216457093/216457096/1/1762453608965/NRC\_ZPs\_1126pmap.txt)
+* "requirementsgc.txt" (list of packages)
 
 \--------------------------------------------------
 
@@ -20,7 +20,7 @@ This project makes use of the following papers and websites (so far):
 
 
 
-* http://basti-iac.oa-abruzzo.inaf.it/isocs.html
+* http://basti-iac.oa-abruzzo.inaf.it/isocs.html (contents of folder "Isochrones\_from\_BaSTI" are generated from here)
 * https://pypi.org/project/initial-mass-function/
 * https://jwst-docs.stsci.edu/jwst-near-infrared-camera/nircam-performance/nircam-absolute-flux-calibration-and-zeropoints#NIRCamAbsoluteFluxCalibrationandZeropoints-NRC\_zeropoints\&gsc.tab=0
 * https://zenodo.org/records/8387817
